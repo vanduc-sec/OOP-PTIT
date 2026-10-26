@@ -1,4 +1,3 @@
-package oopptit;
 import java.util.Scanner;
 public class j01002 {
     public static void main (String[] args){
