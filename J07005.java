@@ -1,9 +1,6 @@
 import java.util.*;
 import java.io.*;
-/**
- *
- * @author Admin
- */
+
 public class J07005 {
     public static void main(String[] args){
         try{
