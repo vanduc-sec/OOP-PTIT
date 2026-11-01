@@ -9,6 +9,7 @@
 | [J07010](J07010.java) | [DANH SÁCH SINH VIÊN TRONG FILE - 2](J07010.java) |
 | [J07011](J07011.java) | [THỐNG KÊ TỪ KHÁC NHAU TRONG FILE VĂN BẢN](J07011.java) |
 | [J07012](J07012.java) | [THỐNG KÊ TỪ KHÁC NHAU TRONG FILE NHỊ PHÂN](J07012.java) |
+| [J07014](J07014.java) | [HỢP VÀ GIAO CỦA HAI FILE VĂN BẢN](J07014.java) |
 
 
 
