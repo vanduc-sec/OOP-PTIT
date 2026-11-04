@@ -11,7 +11,8 @@
 | [J07012](J07012.java) | [THỐNG KÊ TỪ KHÁC NHAU TRONG FILE NHỊ PHÂN](J07012.java) |
 | [J07014](J07014.java) | [HỢP VÀ GIAO CỦA HAI FILE VĂN BẢN](J07014.java) |
 | [J07015](J07015.java) | [SỐ NGUYÊN TỐ TRONG FILE NHỊ PHÂN](J07015.java) |
-| [J07016](J07016.java) | [ SỐ NGUYÊN TỐ TRONG HAI FILE NHỊ PHÂN](J07016.java) |
+| [J07016](J07016.java) | [SỐ NGUYÊN TỐ TRONG HAI FILE NHỊ PHÂN](J07016.java) |
+| [J07017](J07017.java) | [LỚP PAIR (generic)](J07017.java) |
 
 
 
