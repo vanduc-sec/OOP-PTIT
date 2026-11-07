@@ -15,6 +15,7 @@
 | [J07017](J07017.java) | [LỚP PAIR (generic)](J07017.java) |
 | [J07018](J07018.java) | [CHUẨN HÓA DANH SÁCH SINH VIÊN](J07018.java) |
 | [J07019](J07019.java) | [HÓA ĐƠN - 1](J07019.java) |
+| [J07021](J07021.java) | [CHUẨN HÓA XÂU HỌ TÊN TRONG FILE](J07021.java) |
 
 
 
