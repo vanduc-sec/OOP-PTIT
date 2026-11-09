@@ -17,6 +17,7 @@
 | [J07019](J07019.java) | [HÓA ĐƠN - 1](J07019.java) |
 | [J07020](J07020.java) | [ HÓA ĐƠN - 2](J07020.java) |
 | [J07021](J07021.java) | [CHUẨN HÓA XÂU HỌ TÊN TRONG FILE](J07021.java) |
+| [J07022](J07022.java) | [LOẠI BỎ SỐ NGUYÊN](J07022.java) |
 
 
 
