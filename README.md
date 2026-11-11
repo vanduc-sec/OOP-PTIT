@@ -19,6 +19,7 @@
 | [J07021](J07021.java) | [CHUẨN HÓA XÂU HỌ TÊN TRONG FILE](J07021.java) |
 | [J07022](J07022.java) | [LOẠI BỎ SỐ NGUYÊN](J07022.java) |
 | [J07023](J07023.java) | [NGUYÊN TỐ VÀ THUẬN NGHỊCH](J07023.java) |
+| [J07024](J07024.java) | [HIỆU CỦA HAI TẬP TỪ](J07024.java) |
 
 
 
