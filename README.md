@@ -20,6 +20,7 @@
 | [J07022](J07022.java) | [LOẠI BỎ SỐ NGUYÊN](J07022.java) |
 | [J07023](J07023.java) | [NGUYÊN TỐ VÀ THUẬN NGHỊCH](J07023.java) |
 | [J07024](J07024.java) | [HIỆU CỦA HAI TẬP TỪ](J07024.java) |
+| [J07025](J07025.java) | [DANH SÁCH KHÁCH HÀNG TRONG FILE](J07025.java) |
 
 
 
