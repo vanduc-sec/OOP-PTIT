@@ -5,7 +5,7 @@
 | [J01002](J01002.java) | [TÍNH TỔNG N SỐ NGUYÊN DƯƠNG ĐẦU TIÊN](J01002.java) |
 | [J01003](J01003.java) | [GIẢI PHƯƠNG TRÌNH BẬC NHẤT](J01003.java) |
 | [J01004](J01004.java) | [SỐ NGUYÊN TỐ](J01004.java) |
-| [J01003](J01006.java) | [	TÍNH SỐ FIBONACCI](J01006.java) |
+| [J01006](J01006.java) | [	TÍNH SỐ FIBONACCI](J01006.java) |
 | [J07004](J07004.java) | [SỐ KHÁC NHAU TRONG FILE - 1](J07004.java) |
 | [J07005](J07005.java) | [SỐ KHÁC NHAU TRONG FILE - 2](J07005.java) |
 | [J07007](J07007.java) | [LIỆT KÊ TỪ KHÁC NHAU](J07007.java) |
