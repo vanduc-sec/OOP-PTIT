@@ -25,6 +25,7 @@
 | [J07024](J07024.java) | [HIỆU CỦA HAI TẬP TỪ](J07024.java) |
 | [J07025](J07025.java) | [DANH SÁCH KHÁCH HÀNG TRONG FILE](J07025.java) |
 | [J07028](J07028.java) | [TÍNH GIỜ CHUẨN](J07028.java) |
+| [J07029](J07029.java) | [ SỐ NGUYÊN TỐ LỚN NHẤT TRONG FILE](J07029.java) |
 
 
 
