@@ -1,14 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package oopptit;
 import java.util.Scanner;
-/**
- *
- * @author Admin
- */
-public class j01014 {
+
+public class J01014 {
     public static long check(long n){
         long tmp=0;
         for(int i=2;i<=Math.sqrt(n);i++){
