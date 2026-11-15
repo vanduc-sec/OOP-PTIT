@@ -1,16 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package oopptit;
-
-/**
- *
- * @author Admin
- */
-
 import java.util.*;
-public class j01021 {
+
+public class J01021 {
     public static long luythua(long a,long b){
         if(b==0) return 1;
         long tmp=luythua(a,b/2)%1000000007;
