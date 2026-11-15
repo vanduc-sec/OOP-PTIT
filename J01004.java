@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class j01004{
+public class J01004{
     static int[] a= new int[10000000];
 
     public static boolean check(int t){

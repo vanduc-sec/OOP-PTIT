@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class j01006{
+public class J01006{
     static long[] a= new long[93];
     public static void fib(){
         a[0]=0;

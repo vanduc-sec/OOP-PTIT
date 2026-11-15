@@ -5,7 +5,21 @@
 | [J01002](J01002.java) | [TÍNH TỔNG N SỐ NGUYÊN DƯƠNG ĐẦU TIÊN](J01002.java) |
 | [J01003](J01003.java) | [GIẢI PHƯƠNG TRÌNH BẬC NHẤT](J01003.java) |
 | [J01004](J01004.java) | [SỐ NGUYÊN TỐ](J01004.java) |
-| [J01006](J01006.java) | [	TÍNH SỐ FIBONACCI](J01006.java) |
+| [J01006](J01006.java) | [TÍNH SỐ FIBONACCI](J01006.java) |
+| [J01007](J01007.java) | [KIỂM TRA SỐ FIBONACCI](J01007.java) |
+| [J01008](J01008.java) | [PHÂN TÍCH THỪA SỐ NGUYÊN TỐ](J01008.java) |
+| [J01009](J01009.java) | [TỔNG GIAI THỪA](J01009.java) |
+| [J01010](J01010.java) | [CẮT ĐÔI](J01010.java) |
+| [J01011](J01011.java) | [BỘI SỐ CHUNG - ƯỚC SỐ CHUNG](J01011.java) |
+| [J01012](J01012.java) | [ƯỚC SỐ CHIA HẾT CHO 2](J01012.java) |
+| [J01013](J01013.java) | [TỔNG ƯỚC SỐ - 1](J01013.java) |
+| [J01014](J01014.java) | [ƯỚC SỐ NGUYÊN TỐ LỚN NHẤT](J01014.java) |
+| [J01016](J01016.java) | [CHỮ SỐ 4 VÀ CHỮ SỐ 7](J01016.java) |
+| [J01017](J01017.java) | [SỐ LIỀN KỀ](J01017.java) |
+| [J01018](J01018.java) | [SỐ KHÔNG LIỀN KỀ](J01018.java) |
+| [J01021](J01021.java) | [TÍNH LŨY THỪA](J01021.java) |
+| [J01022](J01022.java) | [XÂU NHỊ PHÂN](J01022.java) |
+| [J01024](J01024.java) | [SỐ TAM PHÂN](J01024.java) |
 | [J07004](J07004.java) | [SỐ KHÁC NHAU TRONG FILE - 1](J07004.java) |
 | [J07005](J07005.java) | [SỐ KHÁC NHAU TRONG FILE - 2](J07005.java) |
 | [J07007](J07007.java) | [LIỆT KÊ TỪ KHÁC NHAU](J07007.java) |
@@ -18,14 +32,15 @@
 | [J07017](J07017.java) | [LỚP PAIR (generic)](J07017.java) |
 | [J07018](J07018.java) | [CHUẨN HÓA DANH SÁCH SINH VIÊN](J07018.java) |
 | [J07019](J07019.java) | [HÓA ĐƠN - 1](J07019.java) |
-| [J07020](J07020.java) | [ HÓA ĐƠN - 2](J07020.java) |
+| [J07020](J07020.java) | [HÓA ĐƠN - 2](J07020.java) |
 | [J07021](J07021.java) | [CHUẨN HÓA XÂU HỌ TÊN TRONG FILE](J07021.java) |
 | [J07022](J07022.java) | [LOẠI BỎ SỐ NGUYÊN](J07022.java) |
 | [J07023](J07023.java) | [NGUYÊN TỐ VÀ THUẬN NGHỊCH](J07023.java) |
 | [J07024](J07024.java) | [HIỆU CỦA HAI TẬP TỪ](J07024.java) |
 | [J07025](J07025.java) | [DANH SÁCH KHÁCH HÀNG TRONG FILE](J07025.java) |
 | [J07028](J07028.java) | [TÍNH GIỜ CHUẨN](J07028.java) |
-| [J07029](J07029.java) | [ SỐ NGUYÊN TỐ LỚN NHẤT TRONG FILE](J07029.java) |
+| [J07029](J07029.java) | [SỐ NGUYÊN TỐ LỚN NHẤT TRONG FILE](J07029.java) |
+| [J07030](J07030.java) | [CẶP SỐ NGUYÊN TỐ TRONG FILE - 1](J07030.java) |
 
 
 
