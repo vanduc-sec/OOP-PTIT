@@ -1,14 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package oopptit;
+import java.util.*;
 
-/**
- *
- * @author Admin
- */import java.util.*;
-public class j01018 {
+public class J01018 {
     public static boolean check(long n){
         long cnt=0;
         long tmp1=n%10;
