@@ -1,15 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package oopptit;
-
-/**
- *
- * @author Admin
- */
 import java.util.Scanner;
-public class j01016 {
+
+public class J01016 {
     public static boolean check(long n){
         int cnt4=0,cnt7=0;
         while(n!=0){

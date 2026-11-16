@@ -1,14 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package oopptit;
 import java.util.Scanner;
-/**
- *
- * @author Admin
- */
-public class j01013 {
+
+public class J01013 {
     static int[] a=new int[2000005];
     public static void nto(){
         for(int i=1;i<2000005;i++) a[i]=i;
