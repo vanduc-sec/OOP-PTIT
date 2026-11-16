@@ -41,6 +41,7 @@
 | [J07028](J07028.java) | [TÍNH GIỜ CHUẨN](J07028.java) |
 | [J07029](J07029.java) | [SỐ NGUYÊN TỐ LỚN NHẤT TRONG FILE](J07029.java) |
 | [J07030](J07030.java) | [CẶP SỐ NGUYÊN TỐ TRONG FILE - 1](J07030.java) |
+| [J07031](J07031.java) | [CẶP SỐ NGUYÊN TỐ TRONG FILE 2](J07031.java) |
 
 
 
