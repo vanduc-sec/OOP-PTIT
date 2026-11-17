@@ -20,6 +20,38 @@
 | [J01021](J01021.java) | [TÍNH LŨY THỪA](J01021.java) |
 | [J01022](J01022.java) | [XÂU NHỊ PHÂN](J01022.java) |
 | [J01024](J01024.java) | [SỐ TAM PHÂN](J01024.java) |
+| [J02037](J02037.java) | [DÃY ƯU THẾ](J02037.java) |
+| [J03004](J03004.java) | [CHUẨN HÓA XÂU HỌ TÊN - 1](J03004.java) |
+| [J03005](J03005.java) | [CHUẨN HÓA XÂU HỌ TÊN - 2](J03005.java) |
+| [J03006](J03006.java) | [SỐ ĐẸP 1](J03006.java) |
+| [J03007](J03007.java) | [SỐ ĐẸP 2](J03007.java) |
+| [J03008](J03008.java) | [SỐ ĐẸP 3](J03008.java) |
+| [J03009](J03009.java) | [TẬP TỪ RIÊNG CỦA HAI XÂU](J03009.java) |
+| [J03010](J03010.java) | [ĐỊA CHỈ EMAIL](J03010.java) |
+| [J03012](J03012.java) | [TỔNG SỐ NGUYÊN LỚN - 1](J03012.java) |
+| [J03013](J03013.java) | [HIỆU SỐ NGUYÊN LỚN - 1](J03013.java) |
+| [J03014](J03014.java) | [TỔNG SỐ NGUYÊN LỚN - 2](J03014.java) |
+| [J03015](J03015.java) | [HIỆU SỐ NGUYÊN LỚN - 2](J03015.java) |
+| [J03016](J03016.java) | [CHIA HẾT CHO 11](J03016.java) |
+| [J03017](J03017.java) | [LOẠI BỎ “100”](J03017.java) |
+| [J04001](J04001.java) | [KHAI BÁO LỚP POINT](J04001.java) |
+| [J04002](J04002.java) | [KHAI BÁO LỚP HÌNH CHỮ NHẬT](J04002.java) |
+| [J04003](J04003.java) | [PHÂN SỐ](J04003.java) |
+| [J04004](J04004.java) | [TỔNG PHÂN SỐ](J04004.java) |
+| [J04005](J04005.java) | [KHAI BÁO LỚP THÍ SINH](J04005.java) |
+| [J04006](J04006.java) | [KHAI BÁO LỚP SINH VIÊN](J04006.java) |
+| [J04007](J04007.java) | [KHAI BÁO LỚP NHÂN VIÊN](J04007.java) |
+| [J04008](J04008.java) | [CHU VI TAM GIÁC](J04008.java) |
+| [J04009](J04009.java) | [DIỆN TÍCH TAM GIÁC](J04009.java) |
+| [J04010](J04010.java) | [DIỆN TÍCH HÌNH TRÒN NGOẠI TIẾP TAM GIÁC](J04010.java) |
+| [J04011](J04011.java) | [BỐN ĐIỂM TRÊN MẶT PHẲNG](J04011.java) |
+| [J04012](J04012.java) | [BÀI TOÁN TÍNH CÔNG](J04012.java) |
+| [J04013](J04013.java) | [BÀI TOÁN TUYỂN SINH](J04013.java) |
+| [J04014](J04014.java) | [TÍNH TOÁN PHÂN SỐ](J04014.java) |
+| [J04015](J04015.java) | [TÍNH THU NHẬP GIÁO VIÊN](J04015.java) |
+| [J04016](J04016.java) | [TÍCH HAI ĐỐI TƯỢNG MA TRẬN](J04016.java) |
+| [J07001](J07001.java) | [ĐỌC FILE VĂN BẢN](J07001.java) |
+| [J07002](J07002.java) | [TÍNH TỔNG](J07002.java) |
 | [J07004](J07004.java) | [SỐ KHÁC NHAU TRONG FILE - 1](J07004.java) |
 | [J07005](J07005.java) | [SỐ KHÁC NHAU TRONG FILE - 2](J07005.java) |
 | [J07007](J07007.java) | [LIỆT KÊ TỪ KHÁC NHAU](J07007.java) |
@@ -43,6 +75,8 @@
 | [J07030](J07030.java) | [CẶP SỐ NGUYÊN TỐ TRONG FILE - 1](J07030.java) |
 | [J07031](J07031.java) | [CẶP SỐ NGUYÊN TỐ TRONG FILE 2](J07031.java) |
 | [J07032](J07032.java) | [SỐ THUẬN NGHỊCH TRONG FILE](J07032.java) |
+| [J07034](J07034.java) | [DANH SÁCH MÔN HỌC](J07034.java) |
+| [J07040](J07040.java) | [LIỆT KÊ THEO THỨ TỰ XUẤT HIỆN	](J07040.java) |
 
 
 
