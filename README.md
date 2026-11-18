@@ -76,7 +76,10 @@
 | [J07031](J07031.java) | [CẶP SỐ NGUYÊN TỐ TRONG FILE 2](J07031.java) |
 | [J07032](J07032.java) | [SỐ THUẬN NGHỊCH TRONG FILE](J07032.java) |
 | [J07034](J07034.java) | [DANH SÁCH MÔN HỌC](J07034.java) |
-| [J07040](J07040.java) | [LIỆT KÊ THEO THỨ TỰ XUẤT HIỆN	](J07040.java) |
+| [J07040](J07040.java) | [LIỆT KÊ THEO THỨ TỰ XUẤT HIỆN](J07040.java) |
+| [J07041](J07041.java) | [LIỆT KÊ CẶP SỐ - 1](J07041.java) |
+| [J07042](J07042.java) | [LIỆT KÊ CẶP SỐ - 2](J07042.java) |
+| [J07045](J07045.java) | [LOẠI PHÒNG](J07045.java) |
 
 
 
