@@ -80,6 +80,7 @@
 | [J07041](J07041.java) | [LIỆT KÊ CẶP SỐ - 1](J07041.java) |
 | [J07042](J07042.java) | [LIỆT KÊ CẶP SỐ - 2](J07042.java) |
 | [J07045](J07045.java) | [LOẠI PHÒNG](J07045.java) |
+| [J07046](J07046.java) | [DANH SÁCH LƯU TRÚ](J07046.java) |
 
 
 
