@@ -84,6 +84,7 @@
 | [J07047](J07047.java) | [QUẢN LÝ KHÁCH SẠN](J07047.java) |
 | [J07048](J07048.java) | [DANH SÁCH SẢN PHẨM – 2](J07048.java) |
 | [J07050](J07050.java) | [SẮP XẾP MẶT HÀNG](J07050.java) |
+| [J07051](J07051.java) | [TÍNH TIỀN PHÒNG](J07051.java) |
 
 
 
