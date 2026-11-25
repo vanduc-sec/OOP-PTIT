@@ -86,6 +86,7 @@
 | [J07050](J07050.java) | [SẮP XẾP MẶT HÀNG](J07050.java) |
 | [J07051](J07051.java) | [TÍNH TIỀN PHÒNG](J07051.java) |
 | [J07052](J07052.java) | [DANH SÁCH TRÚNG TUYỂN](J07052.java) |
+| [J07053](J07053.java) | [XÉT TUYỂN](J07053.java) |
 
 
 
