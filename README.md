@@ -87,6 +87,7 @@
 | [J07051](J07051.java) | [TÍNH TIỀN PHÒNG](J07051.java) |
 | [J07052](J07052.java) | [DANH SÁCH TRÚNG TUYỂN](J07052.java) |
 | [J07053](J07053.java) | [XÉT TUYỂN](J07053.java) |
+| [J07054](J07054.java) | [TÍNH ĐIỂM TRUNG BÌNH](J07054.java) |
 
 
 
