@@ -88,6 +88,8 @@
 | [J07052](J07052.java) | [DANH SÁCH TRÚNG TUYỂN](J07052.java) |
 | [J07053](J07053.java) | [XÉT TUYỂN](J07053.java) |
 | [J07054](J07054.java) | [TÍNH ĐIỂM TRUNG BÌNH](J07054.java) |
+| [J07059](J07059.java) | [DANH SÁCH CA THI](J07059.java) |
+
 
 
 
